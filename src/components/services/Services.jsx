@@ -2,7 +2,7 @@ import './services.css'
 
 function Services() {
   return (
-    <div>Services</div>
+    <section id="services"></section>
   )
 }
 
