@@ -12,8 +12,10 @@ function Portfolio() {
             <img src={Img01} alt="" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="github link">Github</a>
-          <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="github link" className="btn">Github</a>
+            <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          </div>
         </article>
 
         <article className="portfolio__item">
@@ -21,8 +23,10 @@ function Portfolio() {
             <img src={Img01} alt="" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="github link">Github</a>
-          <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="github link" className="btn">Github</a>
+            <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          </div>
         </article>
 
         <article className="portfolio__item">
@@ -30,8 +34,10 @@ function Portfolio() {
             <img src={Img01} alt="" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="github link">Github</a>
-          <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="github link" className="btn">Github</a>
+            <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          </div>
         </article>
 
         <article className="portfolio__item">
@@ -39,8 +45,10 @@ function Portfolio() {
             <img src={Img01} alt="" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="github link">Github</a>
-          <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="github link" className="btn">Github</a>
+            <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          </div>
         </article>
 
         <article className="portfolio__item">
@@ -48,8 +56,10 @@ function Portfolio() {
             <img src={Img01} alt="" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="github link">Github</a>
-          <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="github link" className="btn">Github</a>
+            <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          </div>
         </article>
 
         <article className="portfolio__item">
@@ -57,9 +67,13 @@ function Portfolio() {
             <img src={Img01} alt="" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="github link">Github</a>
-          <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="github link" className="btn">Github</a>
+            <a href="dribble link" className='btn btn-primary' target='_bkank'>Live Demo</a>
+          </div>
         </article>
+
+
       </div>
     </section>
   )
