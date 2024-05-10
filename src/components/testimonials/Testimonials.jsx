@@ -19,22 +19,22 @@ function Testimonials() {
     {
       avatar: AVT01,
       name: 'Shenal Perera',
-      review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas accusantium vitae sunt iste nobis! Alias quis, cumque accusantium sit adipisci porro reprehenderit? Omnis sint nobis minus ipsa laborum! Ratione, sequi.'
+      review: 'Working with you was fantastic! Their attention to detail and creativity made our project a success. Highly recommend!'
     },
     {
       avatar: AVT02,
-      name: 'Shenal Perera',
-      review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas accusantium vitae sunt iste nobis! Alias quis, cumque accusantium sit adipisci porro reprehenderit? Omnis sint nobis minus ipsa laborum! Ratione, sequi.'
+      name: 'Rehan Fernando',
+      review: 'Kaveen is incredibly talented and professional. They listened to our needs and delivered beyond expectations. Very happy with the results!'
     },
     {
       avatar: AVT03,
-      name: 'Shenal Perera',
-      review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas accusantium vitae sunt iste nobis! Alias quis, cumque accusantium sit adipisci porro reprehenderit? Omnis sint nobis minus ipsa laborum! Ratione, sequi.'
+      name: 'Mihiran Silva',
+      review: 'Kaveen exceeded our expectations with their technical skills and creativity. Our website looks amazing and functions perfectly. Highly satisfied!.'
     },
     {
       avatar: AVT04,
-      name: 'Shenal Perera',
-      review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas accusantium vitae sunt iste nobis! Alias quis, cumque accusantium sit adipisci porro reprehenderit? Omnis sint nobis minus ipsa laborum! Ratione, sequi.'
+      name: 'Ferez Rizma',
+      review: 'Collaborating with Kaveen was a breeze! They captured our brand s voice perfectly and delivered engaging content. Highly recommended for content creation!'
     }
   ]
 
