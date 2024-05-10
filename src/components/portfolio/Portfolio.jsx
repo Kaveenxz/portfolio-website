@@ -10,43 +10,29 @@ function Portfolio() {
     {
       id: 1,
       image: IMG01,
-      title: 'my portfolio title is here',
-      github: '',
+      title: 'Library manegement app',
+      github: 'https://github.com/Kaveenxz/library-management-frontend',
       demo: ''
     },
     {
-      id: 1,
+      id: 2,
       image: IMG02,
-      title: 'my portfolio title is here',
+      title: 'Simple e-commerce site',
       github: 'https://github.com/Kaveenxz/NIBM-project',
       demo: ''
     },
     {
-      id: 1,
+      id: 3,
       image: IMG03,
-      title: 'my portfolio title is here',
-      github: '',
+      title: 'Real-time weather app',
+      github: 'https://github.com/Kaveenxz/wetherApi',
       demo: ''
     },
     {
-      id: 1,
+      id: 4,
       image: IMG04,
-      title: 'my portfolio title is here',
-      github: '',
-      demo: ''
-    },
-    {
-      id: 1,
-      image: IMG01,
-      title: 'my portfolio title is here',
-      github: '',
-      demo: ''
-    },
-    {
-      id: 1,
-      image: IMG01,
-      title: 'my portfolio title is here',
-      github: '',
+      title: 'Random meme generator',
+      github: 'https://github.com/Kaveenxz/Meme-Genarator',
       demo: ''
     }
   ]
